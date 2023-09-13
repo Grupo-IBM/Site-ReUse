@@ -7,7 +7,7 @@ Para iniciar o projeto é importante que tenham as seguintes ferramentas instala
  - [Node.JS](https://nodejs.org/en/): Runtime Build para renderização do Javascript em ambiente;
  - [NPM](https://www.npmjs.com/): Gerenciador de pacotes para o Node, trazendo a maioria das funcionalidades do projeto;
 
-Ao instalar as duas ferramentas, você já está apto a seguir com a instalação de qualquer projeto. Para os próximos passos você precisa de algum terminal com linha de comando:
+Ao instalar essas duas ferramentas, você já está apto a seguir com a instalação de qualquer projeto. Para os próximos passos você precisa de algum terminal com linha de comando:
 
 1. Clone o repositório: [https://github.com/EnzoShiotuqui/Site-ReUse.git](https://github.com/Grupo-IBM/Site-ReUse.git)
 
