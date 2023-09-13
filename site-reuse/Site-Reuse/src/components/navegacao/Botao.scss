@@ -1,0 +1,42 @@
+@import url(../../index.css);
+
+
+.estilo-entrar{
+padding: 15px 20px;
+background-color: var(--green-light);
+border-radius: 5px;
+text-decoration: none;
+color: var(--black);
+transition: .4s;
+}
+
+.estilo-entrar:hover{
+    background-color: var(--green-hover);
+    color: var(--white);
+}
+
+.Link{
+    text-decoration: none;
+    color:var(--black);
+    transition: .4s;
+}
+
+.Link:hover{
+    color: var(--green-hover);
+}
+
+@media (max-width: 576px) {
+    .navbar-items {
+      font-size: 12px;
+      margin-left: 10px;
+    }
+
+    .Lista-navbar{
+        font-size: 12px;
+      margin-left: 10px;
+    }
+
+    .container {
+      overflow-x: hidden;
+    }
+  }
