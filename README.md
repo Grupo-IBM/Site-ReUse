@@ -1,9 +1,6 @@
 # Site  do projeto reUse, CyberWave
 Esse repositório contém 2 pastas com os sites que fizemos para a sprint 3, com arquivos html, css e js para exemplo e o site final, em React. na pasta "Site-Reuse"
 
-
-
-
 ## Como Iniciar:
 Para iniciar o projeto é importante que tenham as seguintes ferramentas instaladas
 
